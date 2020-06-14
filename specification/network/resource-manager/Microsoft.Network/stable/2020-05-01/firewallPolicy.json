@@ -1153,6 +1153,7 @@
       "description": "Response for ListFirewallPolicyRuleGroups API service call."
     },
     "FirewallPolicyIntrusionSystem": {
+      "description": "Configuration for Intrusion system mode and rules.",
       "properties": {
         "mode": {
           "type": "string",
